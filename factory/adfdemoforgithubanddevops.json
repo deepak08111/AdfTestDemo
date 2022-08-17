@@ -1,0 +1,9 @@
+{
+	"name": "adfdemoforgithubanddevops",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e95fa70-f902-4719-bf55-d68041c334fe",
+		"tenantId": "44f32718-2108-4ade-a443-90454ee0ea5a"
+	}
+}
