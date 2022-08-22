@@ -1,0 +1,12 @@
+{
+	"name": "ls_for_keyvault",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "this is linked service from azure key vault to bob storage",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://KV-DEMO-FOR-TEST.vault.azure.net/"
+		}
+	}
+}
