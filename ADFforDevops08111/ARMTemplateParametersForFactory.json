@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFforDevops08111"
+		},
+		"ls_AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"ls_for_keyvault_properties_typeProperties_baseUrl": {
+			"value": "https://KV-DEMO-FOR-TEST.vault.azure.net/"
+		},
+		"ls_fro_azureblobstorage_properties_typeProperties_connectionString_secretName": {
+			"value": "sec-bs-storagedemodeepak"
+		}
+	}
+}
